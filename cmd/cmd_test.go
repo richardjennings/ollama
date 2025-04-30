@@ -15,8 +15,8 @@ import (
 	"github.com/google/go-cmp/cmp"
 	"github.com/spf13/cobra"
 
-	"github.com/ollama/ollama/api"
-	"github.com/ollama/ollama/types/model"
+	"github.com/richardjennings/ollama/api"
+	"github.com/richardjennings/ollama/types/model"
 )
 
 func TestShowInfo(t *testing.T) {

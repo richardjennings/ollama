@@ -16,8 +16,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/ollama/ollama/api"
-	"github.com/ollama/ollama/types/model"
+	"github.com/richardjennings/ollama/api"
+	"github.com/richardjennings/ollama/types/model"
 )
 
 var finishReasonToolCalls = "tool_calls"

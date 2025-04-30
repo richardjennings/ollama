@@ -25,9 +25,9 @@ import (
 	"net/url"
 	"runtime"
 
-	"github.com/ollama/ollama/envconfig"
-	"github.com/ollama/ollama/format"
-	"github.com/ollama/ollama/version"
+	"github.com/richardjennings/ollama/envconfig"
+	"github.com/richardjennings/ollama/format"
+	"github.com/richardjennings/ollama/version"
 )
 
 // Client encapsulates client state for interacting with the ollama

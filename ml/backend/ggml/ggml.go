@@ -24,11 +24,11 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/ollama/ollama/format"
-	"github.com/ollama/ollama/fs"
-	fsggml "github.com/ollama/ollama/fs/ggml"
-	"github.com/ollama/ollama/ml"
-	ggml "github.com/ollama/ollama/ml/backend/ggml/ggml/src"
+	"github.com/richardjennings/ollama/format"
+	"github.com/richardjennings/ollama/fs"
+	fsggml "github.com/richardjennings/ollama/fs/ggml"
+	"github.com/richardjennings/ollama/ml"
+	ggml "github.com/richardjennings/ollama/ml/backend/ggml/ggml/src"
 	"golang.org/x/sync/errgroup"
 )
 

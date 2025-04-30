@@ -6,8 +6,8 @@ import (
 	"math/rand/v2"
 	"slices"
 
-	"github.com/ollama/ollama/llama"
-	"github.com/ollama/ollama/model"
+	"github.com/richardjennings/ollama/llama"
+	"github.com/richardjennings/ollama/model"
 )
 
 // token represents information about a single token during sampling
